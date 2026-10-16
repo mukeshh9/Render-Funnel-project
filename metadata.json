@@ -1,0 +1,6 @@
+{
+  "name": "OmniFunnel AI - Visual Landing Page Builder & E-Commerce Platform",
+  "description": "Production-oriented AI-assisted visual landing page builder with drag-and-drop editor, 12+ industry templates, product & checkout funnel, 10 payment gateway settings, SEO, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
